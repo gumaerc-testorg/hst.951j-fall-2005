@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource provides information on decision trees, linear regression,
   logistic regression, classification trees, clustering and neural nets.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-951j-medical-decision-support-fall-2005/ef8b093c9774b8de610ebfc222ad11eb_review_hst951.pdf
+file: /media/courses/hst-951j-medical-decision-support-fall-2005/ef8b093c9774b8de610ebfc222ad11eb_review_hst951.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: review_hst951.pdf
 uid: ef8b093c-9774-b8de-610e-bfc222ad11eb
