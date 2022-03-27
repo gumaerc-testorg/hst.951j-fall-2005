@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 12e1a3bf-55e8-7deb-1d39-d4152aa1d25c
 resourcetype: Document
 title: pac.pdf
 uid: a39d137b-36b5-d849-832f-b4978bb7a407

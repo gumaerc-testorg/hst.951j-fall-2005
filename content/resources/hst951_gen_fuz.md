@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09fc2b6b-ebcc-7c47-bb03-f127a7a4ff84
 resourcetype: Document
 title: hst951_gen_fuz.pdf
 uid: fcc1e92e-9620-2648-bb58-2f06526e7b6b

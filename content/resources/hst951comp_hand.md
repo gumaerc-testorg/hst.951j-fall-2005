@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09fc2b6b-ebcc-7c47-bb03-f127a7a4ff84
 resourcetype: Document
 title: hst951comp_hand.pdf
 uid: 5d2efb4c-3896-0945-1de4-969fbefdcdb9

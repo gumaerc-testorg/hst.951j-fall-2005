@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 12e1a3bf-55e8-7deb-1d39-d4152aa1d25c
 resourcetype: Document
 title: hst951_fin_rep.pdf
 uid: 1b6a1d9f-0893-7813-7fcb-56790f57a9d4

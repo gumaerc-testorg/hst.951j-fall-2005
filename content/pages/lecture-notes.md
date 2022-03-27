@@ -319,7 +319,7 @@ SV
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Bioinformatics 1 (Hypothesis Generation, Sequence Alignment) ([PDF 1]({{< baseurl >}}/resources/hst951biocl_hout)) ([PDF 2]({{< baseurl >}}/resources/hst951gprac_hand)) experiment.r ([R](/courses/health-sciences-and-technology/hst-951j-medical-decision-support-fall-2005/lecture-notes/experiment.r))
+Bioinformatics 1 (Hypothesis Generation, Sequence Alignment) ([PDF 1]({{< baseurl >}}/resources/hst951biocl_hout)) ([PDF 2]({{< baseurl >}}/resources/hst951gprac_hand)) experiment.r ([R]({{< baseurl >}}/resources/experiment))
 {{< tdclose >}}
 {{< tdopen >}}
 SV

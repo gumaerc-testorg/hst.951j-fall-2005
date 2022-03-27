@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 12e1a3bf-55e8-7deb-1d39-d4152aa1d25c
 resourcetype: Document
 title: pac_ppt.pdf
 uid: f6d28ffa-61f2-c0b5-0709-b958ad646f26

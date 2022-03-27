@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 12e1a3bf-55e8-7deb-1d39-d4152aa1d25c
 resourcetype: Document
 title: jessiechenpaper.pdf
 uid: 0d175b3c-0992-29dc-b6ee-bea7e60e4b7c

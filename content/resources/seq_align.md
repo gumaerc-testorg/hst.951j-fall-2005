@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 12e1a3bf-55e8-7deb-1d39-d4152aa1d25c
 resourcetype: Document
 title: seq_align.pdf
 uid: 84b469e0-a975-ce5e-d0bd-2ad90d3a8aeb

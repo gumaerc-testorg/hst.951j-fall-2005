@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09fc2b6b-ebcc-7c47-bb03-f127a7a4ff84
 resourcetype: Document
 title: hst951_sur_anal.pdf
 uid: b2ab5395-6c14-f1a2-9fe3-c07753840fd5

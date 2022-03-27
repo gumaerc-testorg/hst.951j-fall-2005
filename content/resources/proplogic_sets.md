@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09fc2b6b-ebcc-7c47-bb03-f127a7a4ff84
 resourcetype: Document
 title: proplogic_sets.pdf
 uid: 29aab5bf-96b7-6906-2036-9891254d3f44

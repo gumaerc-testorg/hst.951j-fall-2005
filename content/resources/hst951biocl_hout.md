@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09fc2b6b-ebcc-7c47-bb03-f127a7a4ff84
 resourcetype: Document
 title: hst951biocl_hout.pdf
 uid: df1136f9-b58b-a6d3-5c3b-4a8635af409d
