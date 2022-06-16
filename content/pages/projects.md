@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section offers information on the general guidelines, reports, web
+  page, softwares and examples for the final project.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: 12e1a3bf-55e8-7deb-1d39-d4152aa1d25c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 General Guidelines for Final Project
@@ -93,26 +99,26 @@ Example final projects are included courtesy of the students listed below. Used 
 
 [Application of Sequence Alignment Algorithms in Location Tracking Data to Determine Patient State in a Clinical Process](/ans7870/HST/HST.951/f05/projects/Meyer/index.html)
 
-Final Report ([PDF]({{< baseurl >}}/resources/hst951_fin_rep))
+Final Report ({{% resource_link 1b6a1d9f-0893-7813-7fcb-56790f57a9d4 "PDF" %}})
 
-Oral Presentation ([PDF - 1.70 MB]({{< baseurl >}}/resources/seq_align))
+Oral Presentation ({{% resource_link 84b469e0-a975-ce5e-d0bd-2ad90d3a8aeb "PDF - 1.70 MB" %}})
 
 ### Final Project by Michael Blechner, MD.
 
 [Behavior of Various Machine Learning Models in the Face of Noisy Data](/ans7870/HST/HST.951/f05/projects/Michael_Blechner/Behavior%20of%20Various%20Machine%20Learning%20Models%20in%20the%20Face%20of%20Noisy%20Data.htm)
 
-Final Report ([PDF]({{< baseurl >}}/resources/full_text))
+Final Report ({{% resource_link 53b7f993-9d18-1290-867c-f652cfd60a5e "PDF" %}})
 
 ### Final Project by Jaime Chang
 
 [Computerized Pulmonary Artery Catheter Waveform Interpretation](/ans7870/HST/HST.951/f05/projects/Jamie_Chang/Computerized%20Pulmonary%20Artery%20Catheter%20Waveform%20Interpretation.htm)
 
-Final Report ([PDF]({{< baseurl >}}/resources/pac))
+Final Report ({{% resource_link a39d137b-36b5-d849-832f-b4978bb7a407 "PDF" %}})
 
-Oral Presentation ([PDF]({{< baseurl >}}/resources/pac_ppt))
+Oral Presentation ({{% resource_link f6d28ffa-61f2-c0b5-0709-b958ad646f26 "PDF" %}})
 
 ### Final Project by Jessie I. Chen
 
 [C# .NET Algorithm for Variable Selection Based on the Mallow's Cp Criterion](/ans7870/HST/HST.951/f05/projects/JessieChen/MDS%20Final%20Project.htm)
 
-Final Report ([PDF]({{< baseurl >}}/resources/jessiechenpaper))
+Final Report ({{% resource_link 0d175b3c-0992-29dc-b6ee-bea7e60e4b7c "PDF" %}})

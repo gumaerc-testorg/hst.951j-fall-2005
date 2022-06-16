@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section lists the lecture files as per the topics covered in the
+  course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 09fc2b6b-ebcc-7c47-bb03-f127a7a4ff84
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Prof. Lucila Ohno-Machado = LOM  
@@ -31,7 +37,7 @@ Lecturer
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Course ([PDF - 1.2 MB]({{< baseurl >}}/resources/hst951_1))
+Introduction to Course ({{% resource_link a1113158-e0af-8b54-4a4a-72d4d46630d0 "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LOM
@@ -43,7 +49,7 @@ LOM
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Decision Analysis 1 ([PDF]({{< baseurl >}}/resources/hst951_2))
+Decision Analysis 1 ({{% resource_link c2bd8003-e9b8-3782-5efa-9563ef426344 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LOM
@@ -55,7 +61,7 @@ LOM
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Decision Analysis 2, Linear Regression (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hst951_3))
+Decision Analysis 2, Linear Regression ({{% resource_link 7c785f61-f9d2-05ae-09b8-d2d44058dd27 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LOM
@@ -79,7 +85,7 @@ SV
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Logistic Regression, MLE ([PDF]({{< baseurl >}}/resources/hst951_4))
+Logistic Regression, MLE ({{% resource_link 787a98d7-47b4-2b6e-9687-f6cd34e45ff8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LOM
@@ -91,7 +97,7 @@ LOM
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Evaluation ([PDF]({{< baseurl >}}/resources/hst951_5))
+Evaluation ({{% resource_link 3cff5fb6-4fbe-ca8f-bffb-9ca89c5574b0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LOM
@@ -139,7 +145,7 @@ SV
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Ensemble Models ([PDF]({{< baseurl >}}/resources/hst951_6))
+Ensemble Models ({{% resource_link c55def8e-af21-3f95-5bd1-5d19d24d41fd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LOM
@@ -151,7 +157,7 @@ LOM
 11
 {{< tdclose >}}
 {{< tdopen >}}
-PCA, LDA ([PDF]({{< baseurl >}}/resources/hst951_7))
+PCA, LDA ({{% resource_link 11668a5f-8676-4174-8200-d0bfd6a889a3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LOM
@@ -163,7 +169,7 @@ LOM
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Unsupervised Learning ([PDF]({{< baseurl >}}/resources/hst951_8))
+Unsupervised Learning ({{% resource_link 95c053c7-f478-9dde-ba95-53e5e7b8ab28 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LOM
@@ -175,7 +181,7 @@ LOM
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Neural Networks ([PDF - 1.2 MB]({{< baseurl >}}/resources/hst951_9))
+Neural Networks ({{% resource_link de903cd6-8471-a3c2-3f6a-5ea4ba4534ee "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LOM
@@ -199,7 +205,7 @@ SV
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Review ([PDF]({{< baseurl >}}/resources/review_hst951))
+Review ({{% resource_link ef8b093c-9774-b8de-610e-bfc222ad11eb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LOM
@@ -211,7 +217,7 @@ LOM
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Survival Analysis ([PDF]({{< baseurl >}}/resources/hst951_sur_anal))
+Survival Analysis ({{% resource_link b2ab5395-6c14-f1a2-9fe3-c07753840fd5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LOM
@@ -235,7 +241,7 @@ SV
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Statistical Learning Theory ([PDF]({{< baseurl >}}/resources/proplogic_sets))
+Statistical Learning Theory ({{% resource_link 29aab5bf-96b7-6906-2036-9891254d3f44 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 SV
@@ -247,7 +253,7 @@ SV
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Model Construction Schemas 1 ([PDF]({{< baseurl >}}/resources/hst951_gen_fuz))
+Model Construction Schemas 1 ({{% resource_link fcc1e92e-9620-2648-bb58-2f06526e7b6b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 SV
@@ -295,7 +301,7 @@ SV
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Analysis of Problems, Complexity ([PDF]({{< baseurl >}}/resources/hst951_gen_fuz))
+Analysis of Problems, Complexity ({{% resource_link fcc1e92e-9620-2648-bb58-2f06526e7b6b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 SV
@@ -319,7 +325,7 @@ SV
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Bioinformatics 1 (Hypothesis Generation, Sequence Alignment) ([PDF 1]({{< baseurl >}}/resources/hst951biocl_hout)) ([PDF 2]({{< baseurl >}}/resources/hst951gprac_hand)) experiment.r ([R]({{< baseurl >}}/resources/experiment))
+Bioinformatics 1 (Hypothesis Generation, Sequence Alignment) ({{% resource_link df1136f9-b58b-a6d3-5c3b-4a8635af409d "PDF 1" %}}) ({{% resource_link f17cab46-d839-6319-2214-e89383604c4e "PDF 2" %}}) experiment.r ({{% resource_link 8015c52c-5008-cd7d-4f04-2ba45c846797 "R" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 SV

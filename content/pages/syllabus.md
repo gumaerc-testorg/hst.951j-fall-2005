@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This section provides information about the course requirements, prerequisites,
+  assignments and grading criteria for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 2344edfc-6d5b-4fc6-f39e-9866efaba371
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
