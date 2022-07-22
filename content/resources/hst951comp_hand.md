@@ -5,6 +5,7 @@ file: /courses/hst-951j-medical-decision-support-fall-2005/5d2efb4c389609451de49
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides information on analysis of various algorithms.
-

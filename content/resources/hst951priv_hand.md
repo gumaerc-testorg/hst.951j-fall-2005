@@ -5,6 +5,7 @@ file: /courses/hst-951j-medical-decision-support-fall-2005/0bed55b85e144707f4861
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

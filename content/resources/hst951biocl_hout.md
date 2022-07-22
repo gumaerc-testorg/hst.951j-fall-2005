@@ -6,6 +6,7 @@ file: /courses/hst-951j-medical-decision-support-fall-2005/df1136f9b58ba6d35c3b4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides information on bioinformatics, sequence alignment, maximum parsimoney phylogenetic trees and haplotype tagging.
-

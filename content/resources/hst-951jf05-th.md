@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: A diagram showing how to interpret the results of an ECG.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-951jf05-th.jpg
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 New image Upload
-

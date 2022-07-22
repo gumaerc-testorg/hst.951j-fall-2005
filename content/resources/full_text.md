@@ -6,6 +6,7 @@ file: /courses/hst-951j-medical-decision-support-fall-2005/53b7f9939d181290867cf
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information about the final project created by the student.
-
