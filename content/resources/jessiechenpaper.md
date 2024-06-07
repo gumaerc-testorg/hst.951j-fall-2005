@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on the final project submitted by
   the student.
 file: /courses/hst-951j-medical-decision-support-fall-2005/0d175b3c099229dcb6eebea7e60e4b7c_jessiechenpaper.pdf
+file_size: 232946
 file_type: application/pdf
 learning_resource_types:
 - Projects
