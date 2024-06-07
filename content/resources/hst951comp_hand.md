@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information on analysis of various algorithms.
 file: /courses/hst-951j-medical-decision-support-fall-2005/5d2efb4c389609451de4969fbefdcdb9_hst951comp_hand.pdf
+file_size: 291657
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

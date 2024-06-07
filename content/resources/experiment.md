@@ -3,6 +3,7 @@ content_type: resource
 description: Special file used with Bioinformatics 1 (Hypothesis Generation, Sequence
   Alignment).
 file: /courses/hst-951j-medical-decision-support-fall-2005/8015c52c5008cd7d4f042ba45c846797_experiment.r
+file_size: 7199
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
