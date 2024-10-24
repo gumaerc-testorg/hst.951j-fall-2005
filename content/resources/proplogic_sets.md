@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on propositional logic, fuzzy rules
   and fuzzy logic.
-file: /courses/hst-951j-medical-decision-support-fall-2005/29aab5bf96b7690620369891254d3f44_proplogic_sets.pdf
+file: /ol-ocw-studio-app/courses/hst-951j-medical-decision-support-fall-2005/29aab5bf96b7690620369891254d3f44_proplogic_sets.pdf
 file_size: 643158
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on basic concepts, distributions,
   simple models and multivariate models.
-file: /courses/hst-951j-medical-decision-support-fall-2005/b2ab53956c14f1a29fe3c07753840fd5_hst951_sur_anal.pdf
+file: /ol-ocw-studio-app/courses/hst-951j-medical-decision-support-fall-2005/b2ab53956c14f1a29fe3c07753840fd5_hst951_sur_anal.pdf
 file_size: 203316
 file_type: application/pdf
 learning_resource_types:
