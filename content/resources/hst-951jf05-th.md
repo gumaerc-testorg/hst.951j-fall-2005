@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/hst-951j-medical-decision-support-fall-2005/db2d15452e5172d6a794aeed03365ef0_hst-951jf05-th.jpg
+file: /ol-ocw-studio-app/courses/hst-951j-medical-decision-support-fall-2005/db2d15452e5172d6a794aeed03365ef0_hst-951jf05-th.jpg
 file_size: 7617
 file_type: image/jpeg
 image_metadata:
