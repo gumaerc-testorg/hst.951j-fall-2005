@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on the final project slides created
   by the student.
-file: /courses/hst-951j-medical-decision-support-fall-2005/f6d28ffa61f2c0b50709b958ad646f26_pac_ppt.pdf
+file: /ol-ocw-studio-app/courses/hst-951j-medical-decision-support-fall-2005/f6d28ffa61f2c0b50709b958ad646f26_pac_ppt.pdf
 file_size: 246091
 file_type: application/pdf
 learning_resource_types:
