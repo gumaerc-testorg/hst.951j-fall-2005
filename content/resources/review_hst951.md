@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on decision trees, linear regression,
   logistic regression, classification trees, clustering and neural nets.
-file: /ol-ocw-studio-app/courses/hst-951j-medical-decision-support-fall-2005/ef8b093c9774b8de610ebfc222ad11eb_review_hst951.pdf
+file: /courses/hst-951j-medical-decision-support-fall-2005/ef8b093c9774b8de610ebfc222ad11eb_review_hst951.pdf
 file_size: 616838
 file_type: application/pdf
 learning_resource_types:
