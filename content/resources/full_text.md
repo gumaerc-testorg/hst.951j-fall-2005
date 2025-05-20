@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about the final project created by
   the student.
-file: /ol-ocw-studio-app/courses/hst-951j-medical-decision-support-fall-2005/53b7f9939d181290867cf652cfd60a5e_full_text.pdf
+file: /courses/hst-951j-medical-decision-support-fall-2005/53b7f9939d181290867cf652cfd60a5e_full_text.pdf
 file_size: 283630
 file_type: application/pdf
 learning_resource_types:
