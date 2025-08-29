@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on bioinformatics, sequence alignment,
   maximum parsimoney phylogenetic trees and haplotype tagging.
-file: /courses/hst-951j-medical-decision-support-fall-2005/df1136f9b58ba6d35c3b4a8635af409d_hst951biocl_hout.pdf
+file: /ol-ocw-studio-app/courses/hst-951j-medical-decision-support-fall-2005/df1136f9b58ba6d35c3b4a8635af409d_hst951biocl_hout.pdf
 file_size: 217641
 file_type: application/pdf
 learning_resource_types:
