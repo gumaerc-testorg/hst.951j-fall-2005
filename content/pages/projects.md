@@ -24,11 +24,11 @@ If you are using existing software packages (See5.0, Genie, Rosetta, etc.), then
 
 Use medically related data. I will provide those with little medical connections with published data sets (e.g., trauma patients, extracted from Christensen's textbook on logistic regression). Use this set or another of your interest to compare performance of several models or to investigate selection of variables (e.g., comparison of different selection methods), selection of cases (e.g., detection of outliers). You can use medical data from:
 
-*   [UCI depository and UCI KDD archive](http://www.ics.uci.edu/~mlearn/MLRepository.html)
-*   [Statlib](http://lib.stat.cmu.edu/DASL/)
-*   [Delve - Data for Evaluating Learning in Valid Experiments](http://www.cs.toronto.edu/~delve/)
-*   [R Project](http://www.r-project.org/)
-*   [NCBI - National Center for Biotechnology Information](http://www.ncbi.nlm.nih.gov/)
+*   {{% resource_link "4c2d6f53-8e81-416c-a449-fbaa15a2e9f7" "UCI depository and UCI KDD archive" %}}
+*   {{% resource_link "bb2451a5-a60b-4ede-a4d6-0735fe6394b4" "Statlib" %}}
+*   {{% resource_link "86683511-3707-45e7-a253-3ce2e4a1ff2f" "Delve - Data for Evaluating Learning in Valid Experiments" %}}
+*   {{% resource_link "900b9ce2-8c42-47da-8517-368bc68c7e7d" "R Project" %}}
+*   {{% resource_link "cff495b9-9969-4ebc-b71f-76b487bd7315" "NCBI - National Center for Biotechnology Information" %}}
 
 too.
 
@@ -61,13 +61,13 @@ Delivery: Please create a web-page for your report. This web-page should contain
 Software
 --------
 
-If you want to install stuff on your own machine, [R](http://www.r-project.org/) is free. Feel free to implement algorithms if you want. Other packages you might consider are:
+If you want to install stuff on your own machine, {{% resource_link "900b9ce2-8c42-47da-8517-368bc68c7e7d" "R" %}} is free. Feel free to implement algorithms if you want. Other packages you might consider are:
 
 *   Neural networks: NevProp4, by Prof. Phil Goodman
 *   Logistic regression: SAS
-*   Classification trees: [See5.0](http://www.rulequest.com/)
-*   Rough sets: [Rosetta](https://www.rosettacommons.org/software)
-*   Belief networks: [SamIam](http://reasoning.cs.ucla.edu/samiam/)
+*   Classification trees: {{% resource_link "b3131d8d-587e-4efc-a46b-aef166addd62" "See5.0" %}}
+*   Rough sets: {{% resource_link "7c7dc239-18c5-49c0-a471-b34ed42bb97f" "Rosetta" %}}
+*   Belief networks: {{% resource_link "9801d6b3-c5ee-41ab-b3c5-93e4813da88e" "SamIam" %}}
 
 Please note that some of these are freely available as demo versions only, so there may be limits on number of cases, variables, days available for trial, etc.
 
